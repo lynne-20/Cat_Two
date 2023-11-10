@@ -1,0 +1,9 @@
+## LL1 parser with C
+A small LL1 analyser that can remove recusrsion, calculate the first and follow of a given production rules then you can enter a word to analyse it.
+## how to use
+### syntax
+- terminal must be lower case
+- non-terminals must be upper case
+- terminals and non-terminals should be one character at most
+- epsilon are represented by the character '&'
+Use the example grammer(CFG) in class to verify
